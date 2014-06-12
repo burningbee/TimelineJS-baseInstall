@@ -1,0 +1,25 @@
+<h1>Timeline<br><br></h1>
+  <div id="timeline-embed" style="float: left;">
+
+    <!-- For Multiple video play-->
+    <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flashembed.min.js"></script>
+    <!-- Flowplayer styles for play button overlays. Not needed on coll_march;  screenshots taken including play button. -->
+    <!-- <link rel="stylesheet" type="text/css" href="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/css/multiple-instances_wide.css"/> -->
+
+    <!-- Audio player-->
+    <script type="text/javascript" src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/cdm/default/collection/default/viewers/audioViewer/jplayer/jquery.jplayer.min.js"></script>
+    <!-- each javascript file for audio play should not be here but in jsonp because javascript file for audio makes conflict with Flowplayer -->
+    <link href="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/cdm/default/collection/default/viewers/audioViewer/jplayer/jplayer_blue_monday.css" rel="stylesheet" type="text/css" />
+
+    <script type="text/javascript">
+        var timeline_config = {
+          width:"100%",
+        source: 'http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/TimelineJS_MarchOnMilwaukee_wide_top_ver4.jsonp',
+        css:  'http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/css/timeline_wide_top_color_background_ver2.css', //OPTIONAL
+        js:   'http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/timeline_merge_wide_top_color_thumbnail_ver2.js',  //OPTIONAL
+        }
+    </script>
+
+    <script type="text/javascript" src="http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/timeline-embed.js"></script>
+
+  </div>

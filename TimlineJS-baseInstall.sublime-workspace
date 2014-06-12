@@ -1,0 +1,442 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 188.0,
+		"selected_items":
+		[
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wra",
+				"BracketHighlighter: Wrap Selections with Brackets"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"proj",
+				"Project: Close"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pro",
+				"File: New File Relative to Project Root"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"disco",
+				"Package Control: Discover Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"pref",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 450.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/H/Departments/Digitization Projects/Timeline/BASE-INSTALL-fromJins-currProd-timelineJS_6314/timeline/js/flow.embed.js",
+		"/H/Departments/Digitization Projects/Timeline/JinsTimeline-fromTest/flow.embed.js",
+		"/H/Departments/Digitization Projects/Timeline/BASE-INSTALL-fromJins-currProd-timelineJS_6314/timeline/js/flashembed.min.js",
+		"/H/Departments/Digitization Projects/Timeline/BASE-INSTALL-fromJins-currProd-timelineJS_6314/timeline/PHTML-timelineEmbedInPage.html",
+		"/H/Departments/Digitization Projects/Timeline/BASE-INSTALL-fromJins-currProd-timelineJS_6314/timeline/css/multiple-instances_wide.css",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/PHTML-timelineEmbedInPage.html",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/TimelineJS_MarchOnMilwaukee_wide_top_ver4.jsonp",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/js/flow.embed.js",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/js/video_loader_origin.js",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/js/video_loader.js",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/js/timeline-min.js",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/css/multiple-instances_wide.css",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/js/flashembed.min.js",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/js/timeline_merge_wide_top_color_thumbnail_ver2.js",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/js/storyjs-embed.js",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/css/timeline_wide_top_color_background_ver2.css",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/css/timeline.css",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/js/audio3.js",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/js/audio.js",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/css/themes/timeline-dark.png",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/css/timeline-dark.png",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/css/timeline@2x.png",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/css/timeline@2x.png1",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/css/Copy of timeline@2x.png",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/css/Copy of timeline.png",
+		"/H/Departments/Digitization Projects/Timeline/jins-currProd-timelineJS_6314/timeline/css/timeline.png",
+		"/C/Users/tgberman/AppData/Local/Temp/fz3temp-1/multiple-instances_wide.css",
+		"/C/Users/tgberman/AppData/Local/Temp/fz3temp-1/style_all_timeline.css",
+		"/C/Users/tgberman/AppData/Local/Temp/fz3temp-1/style_all_custom.css",
+		"/C/Users/tgberman/AppData/Local/Temp/fz3temp-1/index_timeline_MarchOnMilwaukee_wide_top_color_background_ver2.phtml",
+		"/C/Users/tgberman/AppData/Local/Temp/fz3temp-1/index_timeline_test.phtml",
+		"/C/Users/tgberman/AppData/Local/Temp/fz3temp-1/index-march-old.phtml",
+		"/C/Users/tgberman/AppData/Local/Temp/fz3temp-1/index-march.phtml",
+		"/C/Users/tgberman/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/tgberman/Dropbox/Programs/Sublime Text Build 3059 x64/Data/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/TGB/My Dropbox/Programs/Sublime Text Build 3059 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/TGB/My Dropbox/Projects/sublimeText-projects/sublimeText3-setup.sublime-project",
+		"/C/Users/TGB/My Dropbox/Projects/Dropbox/TGBermanB2C/SublimeText3-setup/sublime-relativeFile-test",
+		"/C/Users/tgberman/Dropbox/TGBermanB2C/SublimeText3-setup/sublimeText3-reccomendedPackages",
+		"/C/Users/tgberman/Dropbox/TGBermanB2C/SublimeText3-setup/sublimeText3-nxtStps",
+		"/C/Users/tgberman/Dropbox/TGBermanB2C/SublimeText3-setup/sublimeText3-usageTips",
+		"/C/Users/tgberman/Dropbox/Projects/sublimeText-projects/sublimeText3-setup.sublime-project",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/multiple-instances.css",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/js/timeline_merge_wide_top_color_thumbnail_ver2.js",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/TimelineJS_MarchOnMilwaukee_wide_top_ver4.jsonp",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/css/timeline_wide_top_color_background_ver2.css",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/js/video_loader.js",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/js/video_loader_origin.js",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/css/timeline.css",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/js/timeline-min.js",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/js/timeline1.js",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/js/storyjs-embed.js",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/js/jquery.pack.js",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/js/audio.js",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/example_jsonp_20_for_demo.jsonp",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/compoundtest.html",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/index.html",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/index.php",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/index_previous.php",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/index_timeline_MarchOnMilwaukee.phtml",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/index_timeline_marchonmilwaukee.phtml.bak",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/index_timeline_MarchOnMilwaukee_wide_top_color1.phtml",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/index_timeline_video.phtml",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/index_timeline_video_audio1.phtml",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/index_working well.php",
+		"/H/Departments/Digitization Projects/Trevor/jins-currProd-timelineJS_6314/timeline/index-test.phtml",
+		"/C/Users/tgberman/AppData/Local/Temp/fz3temp-1/index_timeline_marchonmilwaukee.phtml",
+		"/C/Users/tgberman/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/cdmtest",
+		"/C/Users/tgberman/AppData/Roaming/Sublime Text 3/Packages/SFTP/Default (Windows).sublime-keymap",
+		"/C/Users/tgberman/AppData/Roaming/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/C/Users/tgberman/Dropbox/TGBermanB2C/sublimeText3-usageTips",
+		"/C/Users/tgberman/Dropbox/TGBermanB2C/sublimeText3-reccomendedPackages",
+		"/C/Users/tgberman/Dropbox/TGBermanB2C/sublimeText3-nxtStps",
+		"/C/Users/tgberman/Dropbox/Projects/thatCamp_MKE-2014/thatCamp2014_personalSiteBuild/webSite-template-handcrafted/css/reset.css",
+		"/C/Users/tgberman/Dropbox/Projects/thatCamp_MKE-2014/thatCamp2014_personalSiteBuild/webSite-template-handcrafted/css/master.css",
+		"/C/Users/tgberman/Dropbox/Projects/thatCamp_MKE-2014/thatCamp2014_personalSiteBuild/webSite-template-handcrafted/index.html",
+		"/C/Users/tgberman/Dropbox/Projects/thatCamp_MKE-2014/thatCamp2014_personalSiteBuild/webSite-template-handcrafted/css/universal_ie6.css",
+		"/C/Users/tgberman/Dropbox/Projects/thatCamp_MKE-2014/thatCamp2014_personalSiteBuild/webSite-template-handcrafted/css/screen.css",
+		"/C/Users/tgberman/Dropbox/Projects/thatCamp_MKE-2014/thatCamp2014_personalSiteBuild/webSite-template-handcrafted/css/ie.css",
+		"/C/Users/tgberman/Dropbox/Projects/thatCamp_MKE-2014/thatCamp2014_personalSiteBuild/webSite-template-handcrafted/ReadMe_v1-0_mmddyy.txt",
+		"/C/Users/tgberman/Dropbox/Projects/thatCamp_MKE-2014/thatCamp2014_personalSiteBuild/webSite-template/html5-boilerplate-4.3.0_customTGB/css/normalize.css",
+		"/C/Users/tgberman/Dropbox/websiteBuild-framework/webSite-framework/css/master.css",
+		"/C/Users/tgberman/Dropbox/Projects/thatCamp_MKE-2014/thatCamp2014_personalSiteBuild/webSite-template/html5-boilerplate-4.3.0_customTGB/index.html",
+		"/C/Users/tgberman/Dropbox/Projects/thatCamp_MKE-2014/thatCamp2014_personalSiteBuild/webSite-template/html5-boilerplate-4.3.0_customTGB/css/main.css",
+		"/C/Users/tgberman/Dropbox/websiteBuild-framework/webSite-framework/css/screen.css",
+		"/C/Users/tgberman/Dropbox/websiteBuild-framework/webSite-framework/css/reset.css",
+		"/C/Users/tgberman/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/tgberman/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings_BACKUP_51414.sublime-settings",
+		"/C/Users/tgberman/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/tgberman/Desktop/HTML5-areSelfClosingTagsValid"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"config",
+			"function ",
+			"story",
+			"loader",
+			"loade",
+			"script",
+			"Script",
+			"script",
+			"Script",
+			"script",
+			"Script",
+			"script",
+			"Script",
+			"script",
+			"Script",
+			"script",
+			"Script",
+			"script",
+			"Script",
+			"script",
+			"Script",
+			"script",
+			"Script",
+			"script",
+			"Script",
+			"script",
+			"JavaScript",
+			"javascript",
+			"JavaScript",
+			"javascript",
+			"JavaScript",
+			"javascript",
+			"JavaScript",
+			"javascript",
+			"JavaScript",
+			"javascript",
+			"JavaScript",
+			"javascript",
+			"JavaScript",
+			"javascript",
+			"JavaScript",
+			"script",
+			"Script",
+			"script",
+			"Script",
+			"script",
+			"Script",
+			"script",
+			"Script",
+			"script",
+			"Script",
+			".js",
+			".png",
+			"jQue",
+			"jque",
+			"jQue",
+			"button",
+			"loading",
+			".gif",
+			".png",
+			"play.png",
+			"theme",
+			"\"\n",
+			"- look back into EN and email to see if anything else needToKnow/missed",
+			"course",
+			"Udemy",
+			"ftp",
+			"Node",
+			"Javascript",
+			"Trail",
+			"SideBar",
+			"Lint",
+			"Package",
+			"Minifier",
+			"Syntax",
+			"Reload",
+			"Enhancement",
+			"Markdown",
+			"Comm",
+			"Comment",
+			"Gists",
+			"Sass",
+			"Les",
+			"Pretti",
+			"Minifier",
+			"Picker",
+			"Clipboard",
+			"Bracket",
+			"AlignTab",
+			"Alignment",
+			"nced New File",
+			"Format",
+			"Prefixr",
+			"Markdown Preview",
+			"TernJS",
+			"SublimeL",
+			"Subl",
+			"Sidebar Enhancement",
+			"Sidebar Enhancement\n",
+			"CoffeeScript",
+			"SASS",
+			"Git",
+			"Emmet",
+			"Enhancement",
+			"side ba"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 132.0
+	},
+	"project": "TimlineJS-baseInstall.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\TGB\\My Dropbox\\Projects\\sublimeText-projects\\sublimeText3-setup.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

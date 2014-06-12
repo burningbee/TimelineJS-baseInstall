@@ -1,0 +1,444 @@
+
+storyjs_jsonp_data = {
+
+"timeline":
+{
+
+	"date":[
+	{
+		"startDate":"1954,5,17",
+		"endDate":"",
+		"headline":"Brown v. Board of Education",
+		"text":'In the Brown v. Board of Education suit, the U. S. Supreme Court ruled unanimously that "separate but equal" educational facilities were "inherently unequal," and that segregation in public schools was unconstitutional.  This led to protest and change around the country, and set the tone for the many civil rights and social battles that were fought in the 1960&#39;s and onwards.',
+		"asset":{
+			"media":'http://www.archives.gov/exhibits/documented-rights/exhibit/section5/detail/brown-judgment.html, http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/brown-judgment.jpg',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1956,4,3",
+		"endDate":"",
+		"headline":"Phillips Elected to Common Council",
+		"text":'In 1956, at the age of thirty-two, Vel Phillips became the first African American and first woman elected to Milwaukee&#39;s Common Council, representing the newly formed 2nd Ward.  She served on the Council until her 1978 appointment to the Milwaukee County Circuit Court, where she acted as Wisconsin&#39;s first African American judge.',
+		"asset":{
+			"media":'',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1960,2,1",
+		"endDate":"",
+		"headline":"Sit-In in Greensboro N.C",
+		"text":'The United States civil rights sit-in protest movement began at the F. W. Woolworth segregated lunch counter in Greensboro, North Carolina. Following the protest, similar direct action movements spread across the South. This form of action represented a new stage of black activism and revolutionized the civil rights movement.',
+		"asset":{
+			"media":"",
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1960,4,6",
+		"endDate":"",
+		"headline":"Mayor Maier Elected",
+		"text":'Henry W. Maier, Milwaukee&#39;s longest serving Mayor, was first elected on April 6th 1960.  He had previously been elected a State Senator in 1950, and remained in that position until his first Mayoral term.  Maier, through his words and actions concerning the city and civil rights, became a controversial figure within Milwaukee&#39;s Civil Rights era African-American community.',
+		"asset":{
+			"media":'',
+			"credit":"",
+			"caption":''
+		}
+	},
+
+	{
+		"startDate":"1962,5,1",
+		"endDate":"",
+		"headline":"Phillips Introduces Open Housing",
+		"text":'Alderwoman Vel Phillips was a passionate advocate for fair housing in Milwaukee, and on May 1, 1962 first introduced her progressive housing ordinance to the Common Council.  The measure was defeated eighteen to one, with her yea vote being the lone voice of support.  Phillips reintroduced the ordinance on three more occasions before 1968; it failed and she was the lone vote for support every time.',
+		"asset":{
+			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/720"><img src="http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/720_2.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+  {
+    "startDate":"1963,3,27",
+    "endDate":"",
+    "headline":"Big Boy Boycott",
+    "text":'In March of 1963 the Milwaukee NAACP Youth Council began its first major direct action campaign, against local Marc&#39;s Big Boy Restaurant. The YC had received a complaint from a young African American claiming that the restaurant discriminated against job applicants. After investigating the business&#39; hiring practices, the Youth Council informed the restaurant&#39;s owner that his employment system was not integrated and began to picket the establishments.  After the third day of protest, the owner emphasized his commitment to equal opportunity employment and invited the young African American to reapply for the position.',
+    "asset":{
+      "media":'http://collections.lib.uwm.edu/cdm/compoundobject/collection/march/id/1327/rec/1, http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/1372.jpeg',
+      "credit":"",
+      "caption":""
+    }
+  },
+
+	{
+		"startDate":"1963,7,1",
+		"endDate":"",
+		"headline":"Groppi Assigned to Inner Core Parish",
+		"text":'In 1963, Catholic priest James E. Groppi, who grew up in Milwaukee&#39;s Bay View neighborhood, was transferred to St. Boniface Parish, a working-class black parish located on the city&#39;s North Side. While working at St. Boniface, Groppi became deeply involved in civil rights, made his parish a hub for activism, and became a leading participant in many of Milwaukee&#39;s progressive organizations.   He and the NAACP Youth Council organized and contributed to many of the major civil rights direct actions in late sixties Milwaukee.  Groppi served at St. Boniface until he was transferred in 1970.',
+		"asset":{
+			"media":'http://collections.lib.uwm.edu/utils/ajaxhelper/?CISOROOT=march&CISOPTR=660&action=2&DMSCALE=10&DMWIDTH=428&DMHEIGHT=335&DMX=0&DMY=0&DMTEXT=milwmssex000007&DMROTATE=0',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1963,8,27",
+		"endDate":"",
+		"headline":"CORE Courthouse Sit-ins",
+		"text":'Members of the Milwaukee Committee for the Congress of Racial Equality (CORE) conducted a sit-in at the Milwaukee County Courthouse to demand the dismissal of Fred Lins, president of Lins-Hess Sausage Company, from the city&#39;s Social Development Commission.  Lins had earlier made politically inflammatory comments about African Americans in Milwaukee, which spurred CORE to demand his removal.  After the Commission refused to dismiss Lins, CORE organized the courthouse sit-ins to coincide with the national March on Washington for Jobs and Freedom. The demonstrations at the courthouse and elsewhere lasted until October 1st, and ultimately resulted in the arrest of twenty-four activists while Lins remained in his position.',
+		"asset":{
+			"media":'<div class="audio"><blockquote><script type="text/javascript" src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/audio4.js"></script><div id="cdm_aplayer1_flash4">  <embed src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/cdm/default/collection/default/viewers/audioViewer/jplayer/Jplayer.swf" quality="high" flashvars="id=cdm_aplayer1_flash4&amp;vol=0.8&amp;muted=false" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http:&#47;&#47;www.macromedia.com/go/getflashplayer"> </div> <div class="jp-audio" style="font-family: Verdana,Arial,sans-serif; font-size: 0.64em; margin: 10px auto;"><a style="height: 5px; display:block;" target="_blank" href="http://129.89.24.131/cdm/compoundobject/collection/march/id/1566/rec/1?show=1565"> </a> <div class="jp-type-single"> <div id="jp_interface_4" class="jp-interface"> <ul class="jp-controls">              <li><a href="#" class="jp-play" tabindex="1">play</a></li> <li><a href="#" class="jp-pause" tabindex="1">pause</a></li> <li><a href="#" class="jp-stop" tabindex="1">stop</a></li> <li><a href="#" class="jp-mute" tabindex="1">mute</a></li> <li><a href="#" class="jp-unmute" tabindex="1">unmute</a></li> </ul> <div class="jp-progress">   <div class="jp-seek-bar"> <div class="jp-play-bar"></div> </div> </div> <div class="jp-volume-bar">              <div class="jp-volume-bar-value"></div> </div>  <div class="jp-current-time"></div> <div class="jp-duration"></div> </div> <div id="jp_playlist_1" class="jp-playlist">  </div><a style="height: 10px; display:block;" target="_blank" href="http://129.89.24.131/cdm/compoundobject/collection/march/id/1566/rec/1?show=1565"></a>       </div>  </div></blockquote> </div>',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1964,3,??",
+		"endDate":"",
+		"headline":"MUSIC Established",
+		"text":'Lloyd Barbee formed a coalition of over a dozen civil rights, religious, labor, social, and political groups under an umbrella organization known as the Milwaukee United School Integration Committee (MUSIC) in March 1964.   MUSIC&#39;s primary goal was to eliminate segregation in Milwaukee&#39;s public schools through coordinated direct action, such as sit-ins and boycotts.  Some of the prominent members of MUSIC included Marilyn Morheuser, Alderwoman Vel Phillips, Calvin Sherard, Rev. B.S. Gregg, and Father James Groppi. The group&#39;s activity tapered off after a number of the major members took on different civil rights commitments in the late sixties.',
+		"asset":{
+			"media":'',
+			"credit":"",
+			"caption":''
+		}
+	},
+
+	{
+		"startDate":"1964,5,18",
+		"endDate":"",
+		"headline":"First School Boycott and Freedom Day",
+		"text":'On May 18th 1964 MUSIC organized the first "Freedom Day" Freedom School walkout and school boycott in Milwaukee. Over fourteen thousand children left their usual school in protest of the segregation and curriculum of local schools.  Freedom Schools were established by MUSIC and other organizations throughout the city to serve as alternative schools for children during the boycotts. Teachers, clergy, parents, and others ran the Freedom Schools, which offered children a curriculum that emphasized African American history and activism.',
+		"asset":{
+			"media":'http://collections.lib.uwm.edu/utils/ajaxhelper/?CISOROOT=march&CISOPTR=1261&action=2&DMSCALE=10&DMWIDTH=255&DMHEIGHT=330&DMX=0&DMY=0&DMTEXT=&DMROTATE=0',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1964,7,2",
+		"endDate":"",
+		"headline":"Civil Rights Act of 1964",
+		"text":'The Civil Rights Act of 1964, following the Civil Rights Act of 1957, was the second major civil rights legislation since the Civil War era.  The law outlaws many forms of discrimination, such as segregation, unfair voter registration, employment, and access to fair trials.  This law divided the country and inspired many Supreme Court cases, forever changing the major political parties&#39;  platforms and demographics.',
+		"asset":{
+			"media":'http:&#47;&#47;www.ourdocuments.gov/doc.php?flash=true&doc=97,http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/doc_097_big.jpg',
+			"credit":"",
+			"caption":''
+		}
+	},
+
+  {
+    "startDate":"1964,11,04",
+    "endDate":"",
+    "headline":"Barbee Elected to State Assembly",
+    "text":'In 1964 attorney Lloyd Barbee was elected to the Wisconsin State Assembly, where he served until 1977.   Even before his election, he had dedicated his life to civil rights by participating in the NAACP, coordinating protests, and conducting research.  In addition to legislation concerning open housing and fair employment practices, Over his tenure Barbee introduced measures promoting equal rights, prison reform, the legalization of drugs and prostitution, the disarming of police officers, the taxation of churches, and many other controversial or progressive topics.',
+    "asset":{
+      "media":'',
+      "credit":"",
+      "caption":""
+    }
+  },
+
+	{
+		"startDate":"1965,3,13",
+		"endDate":"",
+		"headline":"Milwaukee Marches for Selma",
+		"text":'Milwaukee civil rights demonstrators marched to protest the police actions that took place on March 7, 1965 in Selma, Alabama. The protest in Milwaukee was organized on March 13, 1965.  About 2,500 people marched from the headquarters of CORE to the Milwaukee County Courthouse.',
+		"asset":{
+			"media":'http://collections.lib.uwm.edu/utils/ajaxhelper/?CISOROOT=march&CISOPTR=1539&action=2&DMSCALE=10&DMWIDTH=512&DMHEIGHT=352&DMX=0&DMY=0&DMTEXT=uwmmss0299012&DMROTATE=0',
+			"credit":"",
+			"caption":''
+		}
+	},
+
+	{
+		"startDate":"1965,5,24",
+		"endDate":"",
+		"headline":"MUSIC Direct Actions",
+		"text":'In late May 1965, MUSIC and CORE began a series of direct action protests in response to the school board&#39;s refusal to address de facto segregation in Milwaukee.  For three weeks, MUSIC activists conducted human “chain-in” events at segregated public schools to protest inequality in education and the intact bussing policy.  CORE activists engaged Milwaukee politicians and leaders, sitting-in and singing at some offices and homes.  By the middle of June most of the actions drew to a close, and MUSIC began to focus on advancing Lloyd Barbee&#39;s federal court case against Milwaukee school segregation.',
+		"asset":{
+			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/719"><img src="http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/719_2.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
+			"credit":"",
+			"caption":''
+		}
+	},
+
+  {
+    "startDate":"1965,6,17",
+
+    "endDate":"",
+    "headline":"Barbee Files Federal Segregation Lawsuit",
+    "text":'On June 17, 1965, Lloyd Barbee filed a federal lawsuit, Amos et al. v. Board of School Directors of the City of Milwaukee, after a year of demonstrations by the Milwaukee United School Integration Committee (MUSIC) failed to significantly change segregationist policies.  The lawsuit, initially filed on behalf of forty-one black and white students, charged the school board with intentionally maintaining racial segregation in its schools.  Barbee won the case in 1976, but spent the next several years attending to appeals and associated trials, while building a viable plan to desegregate the school system.',
+    "asset":{
+      "media":'http://collections.lib.uwm.edu/cdm/singleitem/collection/march/id/1508/rec/22,http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/22.jpg',
+      "credit":"",
+      "caption":''
+    }
+  },
+
+	{
+		"startDate":"1965,8,6",
+		"endDate":"",
+		"headline":"Voting Rights Act of 1965",
+		"text":'This law, the third major set of Civil Rights laws since 1957, created stronger oversight and protections of the right to vote.  States with a history of discrimination were placed under new federal restrictions and administration to ensure voting rights were extended to all equally in every state.  The legislation outlawed tests and taxes as prerequisites to voting and prohibited some states from changing their voting laws without first gaining federal approval.',
+		"asset":{
+			"media":'http:&#47;&#47;www.ourdocuments.gov/doc.php?flash=true&doc=100,http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/doc_100_big.jpg',
+			"credit":"",
+			"caption":''
+		}
+	},
+
+	{
+		"startDate":"1965,10,18",
+		"endDate":"",
+		"headline":"Second School Boycott",
+		"text":'From the 18th-20th of October 1965 Milwaukee civil rights organizations coordinated the second major school walkout of Milwaukee&#39;s civil rights era.  Over 7,300 students skipped school the first day, and more than 4000 each of the next days.   Many neighborhoods and communities again hosted Freedom Schools for the children to attend during the boycott.  On the first night of protests Father Groppi led MUSIC activists in a march to the school board President&#39;s home, and the next day other individuals protested outside of the Mayor&#39;s appartment.',
+		"asset":{
+			"media":'http://collections.lib.uwm.edu/utils/ajaxhelper/?CISOROOT=march&CISOPTR=389&action=2&DMSCALE=15&DMWIDTH=247&DMHEIGHT=374&DMX=0&DMY=0&DMTEXT=WTMJ-TV_Tape40_Clip02&DMROTATE=0',
+			"credit":"",
+			"caption":''
+		}
+	},
+
+	{
+		"startDate":"1965,11,23",
+		"endDate":"",
+		"headline":"Dr. King Speaks at UWM",
+		"text":'Dr. Martin Luther King, Jr. addressed over one thousand University of Wisconsin-Milwaukee faculty, staff, and students in the Union Ballroom.  He spoke of raising the minimum wage, the need for legislation to relieve  unemployment and create equal opportunity for African Americans, and his belief that focusing too much on studies can lead movements into stagnation and inaction.',
+		"asset":{
+			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/940"><img src="http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/940.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
+			"credit":"",
+			"caption":''
+		}
+	},
+
+	{
+		"startDate":"1966,2",
+		"endDate":"",
+		"headline":"Eagles Club Protests",
+		"text":'The Milwaukee NAACP Youth Council, along with its advisor Father James Groppi, picketed the Fraternal Order of Eagles Club, a nationwide, exclusively white, social club in Milwaukee. A large number of Eagles Club members were prominent city officials, including judges and the Mayor. The Youth Council protested the white-only policy outside of the club in the late winter, inspiring comradery in the YC and drawing some attention to Milwaukee&#39;s deep-seated segregation.',
+		"asset":{
+			"media":'http://collections.lib.uwm.edu/utils/ajaxhelper/?CISOROOT=march&CISOPTR=669&action=2&DMSCALE=10&DMWIDTH=316&DMHEIGHT=403&DMX=0&DMY=0&DMTEXT=milwmssex000016&DMROTATE=0',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1966,08,13",
+		"endDate":"",
+		"headline":"Eagles Club Protests Continue",
+		"text":'On August 13th, the Youth Council revived their Eagles Club protests and demanded that a number of circuit and county judges resign their membership in the Club.  When the judges refused, the YC began protesting in front of Circut Judge Robert Cannon&#39;s home in Wauwatosa.  The protests lasted for eleven nights, and were met with much white resistance.  Governor Knowles called in the National Guard during the final three nights of protest.  Ultimately only one judge resigned his club membership, and the conflicts increased racial tension and division in Milwaukee.',
+		"asset":{
+			"media":'',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1966,10,??",
+		"endDate":"",
+		"headline":"Youth Council Commandos Formed",
+		"text":'The NAACP Youth Council Commando unit was formed in late 1966 to provide security for marchers, activists, and Father Groppi in particular.  Previous demonstrations and conflicts with the police led the Youth Council to believe that an alternative solution to police protection was necessary.  The Commandos consisted of primarily young men wearing a standard uniform of typically a black beret, black boots, and a sweatshirt displaying the word "Commando" on the front or back.  Initially, the Commando unit was comprised of the Youth Council&#39;s direct action committee members.  Leaders within the unit included Dwight Benning, Duane Toliver, and Prentice McKinney.  The Commandos were nonviolent, but maintained that they would use force if necessary to defend themselves and marchers from harm.',
+		"asset":{
+			"media":'http://collections.lib.uwm.edu/utils/ajaxhelper/?CISOROOT=march&CISOPTR=658&action=2&DMSCALE=10&DMWIDTH=427&DMHEIGHT=336&DMX=0&DMY=0&DMTEXT=milwmssex000005&DMROTATE=0',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1967,05,01",
+		"endDate":"",
+		"headline":"School Textbook Controversy",
+		"text":'In the spring of 1967, students began agitating for curricular reform in the Milwaukee Public Schools system. Though specific goals varied by school and individuals, their general interest was a more inclusive view of American History. Students at Lincoln Junior/High, Riverside High, North Division, Rufus King, Wells Street Junior High, and perhaps West Division protested through "textbook turn-ins" and by disturbing classes.',
+		"asset":{
+			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/942"><img src="http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/942.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
+			"credit":"",
+			"caption":''
+		}
+	},
+
+	{
+		"startDate":"1967,06,20",
+		"endDate":"",
+		"headline":"Wauwatosa Marches",
+		"text":'In late June of 1967, the Youth Council and Father Groppi began to focus more heavily on the need for fair housing in Milwaukee.  The YC conducted rallies at St. Boniface, and protested in front of the homes of aldermen with African American constituencies who continued to vote against a fair housing ordinance.  The aldermen included Martin Schreiber, Sr., president of the Common Council, and Eugene Woehrer, amongst other individuals.  These actions, though they had no immediate impact upon housing in Milwaukee, set the stage for the larger actions to come later in the summer.',
+		"asset":{
+			"media":'',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1967,07,30",
+		"endDate":"",
+		"headline":"The Civil Disturbance",
+		"text":'On the night of July 30th, police and residents of Milwaukee&#39;s Inner Core participated in and were witness to violent unrest.   Over the course of the night one policeman and three civilians were killed, and over one hundred civilians were injured.  1,740 individuals were arrested and Inner Core neighborhoods and businesses were left battered and bruised.  Mayor Maier viewed the disturbances as a riot, and eventually declared a state of emergency that established a mandatory curfew and brought the National Guard to Milwaukee&#39;s streets.  The definitive initial cause of the civil disturbance remains unknown, but various sources cite an incident at a nightclub as the night&#39;s first confrontation.',
+		"asset":{
+			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/702"><img src="http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/702.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1967,08,04",
+		"endDate":"",
+		"headline":"Mayor Maier and the Crisis of Our Cities",
+		"text":'On August 4th Mayor Maier published an advertisement in the New York Times entitled "A Statement of Concern About the Crisis of Our Cities".  The statement called for "a basic reorientation of American society" that tackles metropolitan problems like white flight and segregation.  The tactic exemplified Mayor Maier&#39;s commitment to his "go slow" and big picture approach to the problems of the Inner Core.',
+		"asset":{
+			"media":'http://collections.lib.uwm.edu/utils/ajaxhelper/?CISOROOT=march&CISOPTR=959&action=2&DMSCALE=10&DMWIDTH=256&DMHEIGHT=333&DMX=0&DMY=0&DMTEXT=&DMROTATE=0',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1967,08,28",
+		"endDate":"",
+		"headline":"First Housing March",
+		"text":'At this time Milwaukee#39;s African-Americans were largely prohibited from equitable renting or buying housing by regulation and de facto circumstance.  Minority residents were pushed to the brink by the compounding problems of segregation and the lack of low-income housing, including the City’s recently planned destruction of housing projects in Inner Core neighborhoods.  In response to the unfair situation, Father Groppi, the NAACP Youth Council and other civil rights activists began marching into the predominantly white- South Side to raise awareness of the social disparities and inspire legal change.  On August 28th, the first of the YC’s fair housing marches in Milwaukee was conducted. About two hundred Youth Council members and supporters crossed the 16th Street Bridge and marched to Kosciuszko Park through hostile crowds and counter-demonstrators.',
+		"asset":{
+			"media":'http://129.89.24.131/cdm/compoundobject/collection/march/id/1659/rec/1,http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/1659.jpg',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1967,08,29",
+		"endDate":"",
+		"headline":"The Marches Continue",
+		"text":'Following the success of the previous night, Father Groppi held a press conference and announced that the fair housing marches would continue. On the second night&#39;s march, police estimated that 13,000 counterdemonstrators gathered along the route to confront and heckle the 250 Youth Council marchers.  Police stayed between the groups and used tear gas to disperse the counterdemonstrators. The march ended at 8:30 p.m, and the Youth Council members returned to the 15th Street Freedom House at 1316 North 15th Street, in the Kilbourntown Three redevelopment area.  At 9:30 p.m., police fired tear gas into the house in response to a report that there was a sniper inside.  Soon after, a fire broke out at the home, and by the end of the night the Freedom House burned to the ground.  The marches would continue and ultimately last for two hundred consecutive days.',
+
+		"asset":{
+			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/1465"><img src="http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/1465_2.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1967,08,30",
+		"endDate":"",
+		"headline":"Maier and the Marches",
+		"text":'Mayor Maier, reacting to the public confrontations of the last two nights, issued a proclamation prohibiting marches between 4:00 p.m. and 9:00 a.m. for the next thirty days and enacted a voluntary curfew. In an effort to comply, the Youth Council canceled that evening&#39;s scheduled march and staged a rally at the burned-out Freedom House. The police declared the assembly unlawful and arrested fifty-eight individuals.',
+		"asset":{
+			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/936"><img src="http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/936_2.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1967,09,07",
+		"endDate":"",
+		"headline":"Mayor&#39;s Office Occupied",
+		"text":'On the afternoon of the 7th, seventy-five NAACP Youth Council protestors, including Prentice McKinney, occupied and vandalized the Mayor&#39;s office. Mayor Maier refused to meet with the demonstrators, and the press vividly documented the protesters&#39; destruction of public property. James C. Newcomb, Mayor Maier&#39;s chief administrative officer, made a statement following the destructive sit-in, in which he stated that the demonstrators&#39; actions were counterproductive. The damages to the Mayor&#39;s office were thought to exceed $3,000, and led to the censure of the YC in the local and national press.',
+		"asset":{
+			"media":'http://129.89.24.131/utils/ajaxhelper/?CISOROOT=march&CISOPTR=995&action=2&DMSCALE=10&DMWIDTH=258&DMHEIGHT=334&DMX=0&DMY=0&DMTEXT=&DMROTATE=0',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1967,09,11",
+		"endDate":"",
+		"headline":"White Power Rally",
+		"text":'Resistance to open housing was still strong, as two hundred opponents of open housing attended a White Power rally in Humboldt Park. That evening a group of more than one thousand hostile counter-demonstrators clashed with 650 open housing proponents south of the 16th Street Viaduct. Police arrested thirty-two people, beginning a week of invigorated demonstrations and counter-demonstrations.',
+		"asset":{
+			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/867"><img src="http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/867_2.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1967,11,15",
+		"endDate":"",
+		"headline":'"Black Christmas" Boycott',
+		"text":'In November 1967, the Milwaukee NAACP Youth Council decided to begin a "Black Christmas" economic boycott campaign. In this campaign, the Youth Council encouraged the black community and other open housing supporters to boycott the commercial aspect of the Christmas season. Activists were not to buy gifts, decorations, or any other Christmas materials from merchants, particularly those located in the downtown area. The Black Christmas campaign was successful in that it caused a drop in local business activity. Still, the Milwaukee Common Council continued its opposition to a strong open housing law.',
+		"asset":{
+			"media":'',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1968,03,14",
+		"endDate":"",
+		"headline":"The 200th March",
+		"text":'After two hundred consecutive marches, Father Groppi, the NAACP Youth Council, and their supporters concluded their demonstrations on March 14th 1968.  About 325 demonstrators, including Father Groppi, the YC, and Alderwoman Vel Phillips, walked their paths into the predominantly white neighborhoods which by then had become routine, for a final time.  Though the protests had gained national attention and raised the profile of the marches on Milwaukee, the Youth Council suspended their actions without passage of a fair housing law.',
+		"asset":{
+			"media":'<div class="audio"><blockquote><script type="text/javascript" src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/audio3.js"></script><div id="cdm_aplayer1_flash3">  <embed src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/cdm/default/collection/default/viewers/audioViewer/jplayer/Jplayer.swf" quality="high" flashvars="id=cdm_aplayer1_flash2&amp;vol=0.8&amp;muted=false" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http:&#47;&#47;www.macromedia.com/go/getflashplayer"> </div> <div class="jp-audio" style="font-family: Verdana,Arial,sans-serif; font-size: 0.64em; margin: 10px auto;"><a style="height: 5px; display:block;" target="_blank" href="http://129.89.24.131/cdm/compoundobject/collection/march/id/1626/rec/1?show=1625"> </a> <div class="jp-type-single"> <div id="jp_interface_3" class="jp-interface"> <ul class="jp-controls">              <li><a href="#" class="jp-play" tabindex="1">play</a></li> <li><a href="#" class="jp-pause" tabindex="1">pause</a></li> <li><a href="#" class="jp-stop" tabindex="1">stop</a></li> <li><a href="#" class="jp-mute" tabindex="1">mute</a></li> <li><a href="#" class="jp-unmute" tabindex="1">unmute</a></li> </ul> <div class="jp-progress">   <div class="jp-seek-bar"> <div class="jp-play-bar"></div> </div> </div> <div class="jp-volume-bar">              <div class="jp-volume-bar-value"></div> </div>  <div class="jp-current-time"></div> <div class="jp-duration"></div> </div> <div id="jp_playlist_1" class="jp-playlist">  </div><a style="height: 10px; display:block;" target="_blank" href="http://129.89.24.131/cdm/compoundobject/collection/march/id/1626/rec/1?show=1625"></a>       </div>  </div></blockquote> </div>',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1968,04,04",
+		"endDate":"",
+		"headline":"Dr. King Killed",
+		"text":'Dr. Martin Luther King Jr. was assassinated in Memphis, Tennessee.  His death inspired a wave of grief and renewed calls for civil rights progress across the country.',
+		"asset":{
+			"media":'',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1968,04,08",
+		"endDate":"",
+		"headline":"Milwaukee March for Dr. King",
+		"text":'While violent riots erupted in other cities across the country, the Milwaukee NAACP Youth Council and its Commando unit persuaded Milwaukeeans to honor Dr. King&#39;s nonviolent legacy by demonstrating peacefully. On Monday, April 8, 1968, fifteen thousand people of all races gathered in unity and marched through Milwaukee&#39;s Inner Core and downtown area. The march was preceded by a memorial service for King held at St. Boniface Church. This demonstration was the largest civil rights action in Milwaukee&#39;s history. For the most part it was a silent march, except for the occasional singing of the civil rights anthem "We Shall Overcome."',
+		"asset":{
+			"media":'',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1968,04,11",
+		"endDate":"",
+		"headline":"Civil Rights Act of 1968",
+		"text":'Reacting to the death of Dr. King and the social unrest in cities across the country, Congress passed the Civil Rights Act of 1968.  The legislation outlaws unfair housing practices and helps fight discrimination in the United States.',
+		"asset":{
+			"media":'',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+	{
+		"startDate":"1968,04,30",
+		"endDate":"",
+		"headline":"Common Council Passes Fair Housing",
+		"text":'Reconvening after elections including seven new Aldermen, the Milwaukee Common Council surprised all by passing a more comprehensive fair housing ordinance than that which was called for in the new federal Civil Rights Act of 1968. The Council&#39;s final vote was fifteen to four.  Nearly all of Milwaukee houses were covered under the ordinance. After years of struggle and protest, Alderwoman Vel Philips, Milwaukee&#39;s civil rights organizations, and their supporters celebrated the successful realization of a fair housing law in Milwaukee.',
+		"asset":{
+			"media":'',
+			"credit":"",
+			"caption":""
+		}
+	},
+
+  ]
+}
+}

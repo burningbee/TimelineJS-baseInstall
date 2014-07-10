@@ -11,7 +11,7 @@ storyjs_jsonp_data = {
 		"headline":"Brown v. Board of Education",
 		"text":'In the Brown v. Board of Education suit, the U. S. Supreme Court ruled unanimously that "separate but equal" educational facilities were "inherently unequal," and that segregation in public schools was unconstitutional.  This led to protest and change around the country, and set the tone for the many civil rights and social battles that were fought in the 1960&#39;s and onwards.',
 		"asset":{
-			"media":'http://www.archives.gov/exhibits/documented-rights/exhibit/section5/detail/brown-judgment.html, http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/brown-judgment.jpg',
+			"media":'http://www.archives.gov/exhibits/documented-rights/exhibit/section5/detail/brown-judgment.html, http://cdmtest.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/doc_brownJudgment.jpg',
 			"credit":"",
 			"caption":""
 		}
@@ -59,7 +59,7 @@ storyjs_jsonp_data = {
 		"headline":"Phillips Introduces Open Housing",
 		"text":'Alderwoman Vel Phillips was a passionate advocate for fair housing in Milwaukee, and on May 1, 1962 first introduced her progressive housing ordinance to the Common Council.  The measure was defeated eighteen to one, with her yea vote being the lone voice of support.  Phillips reintroduced the ordinance on three more occasions before 1968; it failed and she was the lone vote for support every time.',
 		"asset":{
-			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/720"><img src="http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/720_2.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
+			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/720"><img src="http://cdmtest.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/vidSplash_720.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
 			"credit":"",
 			"caption":""
 		}
@@ -71,7 +71,7 @@ storyjs_jsonp_data = {
     "headline":"Big Boy Boycott",
     "text":'In March of 1963 the Milwaukee NAACP Youth Council began its first major direct action campaign, against local Marc&#39;s Big Boy Restaurant. The YC had received a complaint from a young African American claiming that the restaurant discriminated against job applicants. After investigating the business&#39; hiring practices, the Youth Council informed the restaurant&#39;s owner that his employment system was not integrated and began to picket the establishments.  After the third day of protest, the owner emphasized his commitment to equal opportunity employment and invited the young African American to reapply for the position.',
     "asset":{
-      "media":'http://collections.lib.uwm.edu/cdm/compoundobject/collection/march/id/1327/rec/1, http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/1372.jpeg',
+      "media":'http://collections.lib.uwm.edu/cdm/compoundobject/collection/march/id/1327/rec/1, http://cdmtest.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/doc_1372-1.jpeg',
       "credit":"",
       "caption":""
     }
@@ -95,7 +95,7 @@ storyjs_jsonp_data = {
 		"headline":"CORE Courthouse Sit-ins",
 		"text":'Members of the Milwaukee Committee for the Congress of Racial Equality (CORE) conducted a sit-in at the Milwaukee County Courthouse to demand the dismissal of Fred Lins, president of Lins-Hess Sausage Company, from the city&#39;s Social Development Commission.  Lins had earlier made politically inflammatory comments about African Americans in Milwaukee, which spurred CORE to demand his removal.  After the Commission refused to dismiss Lins, CORE organized the courthouse sit-ins to coincide with the national March on Washington for Jobs and Freedom. The demonstrations at the courthouse and elsewhere lasted until October 1st, and ultimately resulted in the arrest of twenty-four activists while Lins remained in his position.',
 		"asset":{
-			"media":'<div class="audio"><blockquote><script type="text/javascript" src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/audio4.js"></script><div id="cdm_aplayer1_flash4">  <embed src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/cdm/default/collection/default/viewers/audioViewer/jplayer/Jplayer.swf" quality="high" flashvars="id=cdm_aplayer1_flash4&amp;vol=0.8&amp;muted=false" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http:&#47;&#47;www.macromedia.com/go/getflashplayer"> </div> <div class="jp-audio" style="font-family: Verdana,Arial,sans-serif; font-size: 0.64em; margin: 10px auto;"><a style="height: 5px; display:block;" target="_blank" href="http://129.89.24.131/cdm/compoundobject/collection/march/id/1566/rec/1?show=1565"> </a> <div class="jp-type-single"> <div id="jp_interface_4" class="jp-interface"> <ul class="jp-controls">              <li><a href="#" class="jp-play" tabindex="1">play</a></li> <li><a href="#" class="jp-pause" tabindex="1">pause</a></li> <li><a href="#" class="jp-stop" tabindex="1">stop</a></li> <li><a href="#" class="jp-mute" tabindex="1">mute</a></li> <li><a href="#" class="jp-unmute" tabindex="1">unmute</a></li> </ul> <div class="jp-progress">   <div class="jp-seek-bar"> <div class="jp-play-bar"></div> </div> </div> <div class="jp-volume-bar">              <div class="jp-volume-bar-value"></div> </div>  <div class="jp-current-time"></div> <div class="jp-duration"></div> </div> <div id="jp_playlist_1" class="jp-playlist">  </div><a style="height: 10px; display:block;" target="_blank" href="http://129.89.24.131/cdm/compoundobject/collection/march/id/1566/rec/1?show=1565"></a>       </div>  </div></blockquote> </div>',
+			"media":'<div class="audio"><blockquote><script type="text/javascript" src="http:&#47;&#47;cdmtest.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/audio_1566.js"></script><div id="cdm_aplayer1_flash4">  <embed src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/cdm/default/collection/default/viewers/audioViewer/jplayer/Jplayer.swf" quality="high" flashvars="id=cdm_aplayer1_flash4&amp;vol=0.8&amp;muted=false" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http:&#47;&#47;www.macromedia.com/go/getflashplayer"> </div> <div class="jp-audio" style="font-family: Verdana,Arial,sans-serif; font-size: 0.64em; margin: 10px auto;"><a style="height: 5px; display:block;" target="_blank" href="http://129.89.24.131/cdm/compoundobject/collection/march/id/1566/rec/1?show=1565"> </a> <div class="jp-type-single"> <div id="jp_interface_4" class="jp-interface"> <ul class="jp-controls">              <li><a href="#" class="jp-play" tabindex="1">play</a></li> <li><a href="#" class="jp-pause" tabindex="1">pause</a></li> <li><a href="#" class="jp-stop" tabindex="1">stop</a></li> <li><a href="#" class="jp-mute" tabindex="1">mute</a></li> <li><a href="#" class="jp-unmute" tabindex="1">unmute</a></li> </ul> <div class="jp-progress">   <div class="jp-seek-bar"> <div class="jp-play-bar"></div> </div> </div> <div class="jp-volume-bar">              <div class="jp-volume-bar-value"></div> </div>  <div class="jp-current-time"></div> <div class="jp-duration"></div> </div> <div id="jp_playlist_1" class="jp-playlist">  </div><a style="height: 10px; display:block;" target="_blank" href="http://129.89.24.131/cdm/compoundobject/collection/march/id/1566/rec/1?show=1565"></a>       </div>  </div></blockquote> </div>',
 			"credit":"",
 			"caption":""
 		}
@@ -131,7 +131,7 @@ storyjs_jsonp_data = {
 		"headline":"Civil Rights Act of 1964",
 		"text":'The Civil Rights Act of 1964, following the Civil Rights Act of 1957, was the second major civil rights legislation since the Civil War era.  The law outlaws many forms of discrimination, such as segregation, unfair voter registration, employment, and access to fair trials.  This law divided the country and inspired many Supreme Court cases, forever changing the major political parties&#39;  platforms and demographics.',
 		"asset":{
-			"media":'http:&#47;&#47;www.ourdocuments.gov/doc.php?flash=true&doc=97,http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/doc_097_big.jpg',
+			"media":'http:&#47;&#47;www.ourdocuments.gov/doc.php?flash=true&doc=97,http:&#47;&#47;cdmtest.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/doc_civilRightsAct-1964.jpg',
 			"credit":"",
 			"caption":''
 		}
@@ -167,7 +167,7 @@ storyjs_jsonp_data = {
 		"headline":"MUSIC Direct Actions",
 		"text":'In late May 1965, MUSIC and CORE began a series of direct action protests in response to the school board&#39;s refusal to address de facto segregation in Milwaukee.  For three weeks, MUSIC activists conducted human “chain-in” events at segregated public schools to protest inequality in education and the intact bussing policy.  CORE activists engaged Milwaukee politicians and leaders, sitting-in and singing at some offices and homes.  By the middle of June most of the actions drew to a close, and MUSIC began to focus on advancing Lloyd Barbee&#39;s federal court case against Milwaukee school segregation.',
 		"asset":{
-			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/719"><img src="http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/719_2.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
+			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/719"><img src="http://cdmtest.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/vidSplash_719.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
 			"credit":"",
 			"caption":''
 		}
@@ -180,7 +180,7 @@ storyjs_jsonp_data = {
     "headline":"Barbee Files Federal Segregation Lawsuit",
     "text":'On June 17, 1965, Lloyd Barbee filed a federal lawsuit, Amos et al. v. Board of School Directors of the City of Milwaukee, after a year of demonstrations by the Milwaukee United School Integration Committee (MUSIC) failed to significantly change segregationist policies.  The lawsuit, initially filed on behalf of forty-one black and white students, charged the school board with intentionally maintaining racial segregation in its schools.  Barbee won the case in 1976, but spent the next several years attending to appeals and associated trials, while building a viable plan to desegregate the school system.',
     "asset":{
-      "media":'http://collections.lib.uwm.edu/cdm/singleitem/collection/march/id/1508/rec/22,http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/22.jpg',
+      "media":'http://collections.lib.uwm.edu/cdm/singleitem/collection/march/id/1508/rec/22,http:&#47;&#47;cdmtest.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/doc_1508-22.jpg',
       "credit":"",
       "caption":''
     }
@@ -192,7 +192,7 @@ storyjs_jsonp_data = {
 		"headline":"Voting Rights Act of 1965",
 		"text":'This law, the third major set of Civil Rights laws since 1957, created stronger oversight and protections of the right to vote.  States with a history of discrimination were placed under new federal restrictions and administration to ensure voting rights were extended to all equally in every state.  The legislation outlawed tests and taxes as prerequisites to voting and prohibited some states from changing their voting laws without first gaining federal approval.',
 		"asset":{
-			"media":'http:&#47;&#47;www.ourdocuments.gov/doc.php?flash=true&doc=100,http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/doc_100_big.jpg',
+			"media":'http:&#47;&#47;www.ourdocuments.gov/doc.php?flash=true&doc=100,http:&#47;&#47;cdmtest.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/doc_votingRightsAct-1965.jpg',
 			"credit":"",
 			"caption":''
 		}
@@ -216,7 +216,7 @@ storyjs_jsonp_data = {
 		"headline":"Dr. King Speaks at UWM",
 		"text":'Dr. Martin Luther King, Jr. addressed over one thousand University of Wisconsin-Milwaukee faculty, staff, and students in the Union Ballroom.  He spoke of raising the minimum wage, the need for legislation to relieve  unemployment and create equal opportunity for African Americans, and his belief that focusing too much on studies can lead movements into stagnation and inaction.',
 		"asset":{
-			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/940"><img src="http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/940.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
+			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/940"><img src="http://cdmtest.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/vidSplash_940.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
 			"credit":"",
 			"caption":''
 		}
@@ -264,7 +264,7 @@ storyjs_jsonp_data = {
 		"headline":"School Textbook Controversy",
 		"text":'In the spring of 1967, students began agitating for curricular reform in the Milwaukee Public Schools system. Though specific goals varied by school and individuals, their general interest was a more inclusive view of American History. Students at Lincoln Junior/High, Riverside High, North Division, Rufus King, Wells Street Junior High, and perhaps West Division protested through "textbook turn-ins" and by disturbing classes.',
 		"asset":{
-			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/942"><img src="http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/942.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
+			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/942"><img src="http://cdmtest.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/vidSplash_942.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
 			"credit":"",
 			"caption":''
 		}
@@ -288,7 +288,7 @@ storyjs_jsonp_data = {
 		"headline":"The Civil Disturbance",
 		"text":'On the night of July 30th, police and residents of Milwaukee&#39;s Inner Core participated in and were witness to violent unrest.   Over the course of the night one policeman and three civilians were killed, and over one hundred civilians were injured.  1,740 individuals were arrested and Inner Core neighborhoods and businesses were left battered and bruised.  Mayor Maier viewed the disturbances as a riot, and eventually declared a state of emergency that established a mandatory curfew and brought the National Guard to Milwaukee&#39;s streets.  The definitive initial cause of the civil disturbance remains unknown, but various sources cite an incident at a nightclub as the night&#39;s first confrontation.',
 		"asset":{
-			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/702"><img src="http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/702.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
+			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/702"><img src="http://cdmtest.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/vidSplash_702.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
 			"credit":"",
 			"caption":""
 		}
@@ -312,7 +312,7 @@ storyjs_jsonp_data = {
 		"headline":"First Housing March",
 		"text":'At this time Milwaukee#39;s African-Americans were largely prohibited from equitable renting or buying housing by regulation and de facto circumstance.  Minority residents were pushed to the brink by the compounding problems of segregation and the lack of low-income housing, including the City’s recently planned destruction of housing projects in Inner Core neighborhoods.  In response to the unfair situation, Father Groppi, the NAACP Youth Council and other civil rights activists began marching into the predominantly white- South Side to raise awareness of the social disparities and inspire legal change.  On August 28th, the first of the YC’s fair housing marches in Milwaukee was conducted. About two hundred Youth Council members and supporters crossed the 16th Street Bridge and marched to Kosciuszko Park through hostile crowds and counter-demonstrators.',
 		"asset":{
-			"media":'http://129.89.24.131/cdm/compoundobject/collection/march/id/1659/rec/1,http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/1659.jpg',
+			"media":'http://129.89.24.131/cdm/compoundobject/collection/march/id/1659/rec/1,http:&#47;&#47;cdmtest.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/doc_1659-1.jpg',
 			"credit":"",
 			"caption":""
 		}
@@ -325,7 +325,7 @@ storyjs_jsonp_data = {
 		"text":'Following the success of the previous night, Father Groppi held a press conference and announced that the fair housing marches would continue. On the second night&#39;s march, police estimated that 13,000 counterdemonstrators gathered along the route to confront and heckle the 250 Youth Council marchers.  Police stayed between the groups and used tear gas to disperse the counterdemonstrators. The march ended at 8:30 p.m, and the Youth Council members returned to the 15th Street Freedom House at 1316 North 15th Street, in the Kilbourntown Three redevelopment area.  At 9:30 p.m., police fired tear gas into the house in response to a report that there was a sniper inside.  Soon after, a fire broke out at the home, and by the end of the night the Freedom House burned to the ground.  The marches would continue and ultimately last for two hundred consecutive days.',
 
 		"asset":{
-			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/1465"><img src="http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/1465_2.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
+			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/1465"><img src="http://cdmtest.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/vidSplash_1465.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
 			"credit":"",
 			"caption":""
 		}
@@ -337,7 +337,7 @@ storyjs_jsonp_data = {
 		"headline":"Maier and the Marches",
 		"text":'Mayor Maier, reacting to the public confrontations of the last two nights, issued a proclamation prohibiting marches between 4:00 p.m. and 9:00 a.m. for the next thirty days and enacted a voluntary curfew. In an effort to comply, the Youth Council canceled that evening&#39;s scheduled march and staged a rally at the burned-out Freedom House. The police declared the assembly unlawful and arrested fifty-eight individuals.',
 		"asset":{
-			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/936"><img src="http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/936_2.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
+			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/936"><img src="http://cdmtest.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/vidSplash_936.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
 			"credit":"",
 			"caption":""
 		}
@@ -361,7 +361,7 @@ storyjs_jsonp_data = {
 		"headline":"White Power Rally",
 		"text":'Resistance to open housing was still strong, as two hundred opponents of open housing attended a White Power rally in Humboldt Park. That evening a group of more than one thousand hostile counter-demonstrators clashed with 650 open housing proponents south of the 16th Street Viaduct. Police arrested thirty-two people, beginning a week of invigorated demonstrations and counter-demonstrations.',
 		"asset":{
-			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/867"><img src="http://cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/867_2.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
+			"media":'<blockquote><a class="flowplayer" href="http:&#47;&#47;cdmprod.uits.uwm.edu/utils/getstream/collection/march/id/867"><img src="http://cdmtest.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/vidSplash_867.jpg" />	</a> <script src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/flow.embed.js"></script></blockquote>',
 			"credit":"",
 			"caption":""
 		}
@@ -385,7 +385,7 @@ storyjs_jsonp_data = {
 		"headline":"The 200th March",
 		"text":'After two hundred consecutive marches, Father Groppi, the NAACP Youth Council, and their supporters concluded their demonstrations on March 14th 1968.  About 325 demonstrators, including Father Groppi, the YC, and Alderwoman Vel Phillips, walked their paths into the predominantly white neighborhoods which by then had become routine, for a final time.  Though the protests had gained national attention and raised the profile of the marches on Milwaukee, the Youth Council suspended their actions without passage of a fair housing law.',
 		"asset":{
-			"media":'<div class="audio"><blockquote><script type="text/javascript" src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/audio3.js"></script><div id="cdm_aplayer1_flash3">  <embed src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/cdm/default/collection/default/viewers/audioViewer/jplayer/Jplayer.swf" quality="high" flashvars="id=cdm_aplayer1_flash2&amp;vol=0.8&amp;muted=false" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http:&#47;&#47;www.macromedia.com/go/getflashplayer"> </div> <div class="jp-audio" style="font-family: Verdana,Arial,sans-serif; font-size: 0.64em; margin: 10px auto;"><a style="height: 5px; display:block;" target="_blank" href="http://129.89.24.131/cdm/compoundobject/collection/march/id/1626/rec/1?show=1625"> </a> <div class="jp-type-single"> <div id="jp_interface_3" class="jp-interface"> <ul class="jp-controls">              <li><a href="#" class="jp-play" tabindex="1">play</a></li> <li><a href="#" class="jp-pause" tabindex="1">pause</a></li> <li><a href="#" class="jp-stop" tabindex="1">stop</a></li> <li><a href="#" class="jp-mute" tabindex="1">mute</a></li> <li><a href="#" class="jp-unmute" tabindex="1">unmute</a></li> </ul> <div class="jp-progress">   <div class="jp-seek-bar"> <div class="jp-play-bar"></div> </div> </div> <div class="jp-volume-bar">              <div class="jp-volume-bar-value"></div> </div>  <div class="jp-current-time"></div> <div class="jp-duration"></div> </div> <div id="jp_playlist_1" class="jp-playlist">  </div><a style="height: 10px; display:block;" target="_blank" href="http://129.89.24.131/cdm/compoundobject/collection/march/id/1626/rec/1?show=1625"></a>       </div>  </div></blockquote> </div>',
+			"media":'<div class="audio"><blockquote><script type="text/javascript" src="http:&#47;&#47;cdmtest.uits.uwm.edu/ui/custom/default/collection/coll_march/resources/custompages/timeline/js/audio_1626.js"></script><div id="cdm_aplayer1_flash3">  <embed src="http:&#47;&#47;cdmprod.uits.uwm.edu/ui/cdm/default/collection/default/viewers/audioViewer/jplayer/Jplayer.swf" quality="high" flashvars="id=cdm_aplayer1_flash2&amp;vol=0.8&amp;muted=false" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http:&#47;&#47;www.macromedia.com/go/getflashplayer"> </div> <div class="jp-audio" style="font-family: Verdana,Arial,sans-serif; font-size: 0.64em; margin: 10px auto;"><a style="height: 5px; display:block;" target="_blank" href="http://129.89.24.131/cdm/compoundobject/collection/march/id/1626/rec/1?show=1625"> </a> <div class="jp-type-single"> <div id="jp_interface_3" class="jp-interface"> <ul class="jp-controls">              <li><a href="#" class="jp-play" tabindex="1">play</a></li> <li><a href="#" class="jp-pause" tabindex="1">pause</a></li> <li><a href="#" class="jp-stop" tabindex="1">stop</a></li> <li><a href="#" class="jp-mute" tabindex="1">mute</a></li> <li><a href="#" class="jp-unmute" tabindex="1">unmute</a></li> </ul> <div class="jp-progress">   <div class="jp-seek-bar"> <div class="jp-play-bar"></div> </div> </div> <div class="jp-volume-bar">              <div class="jp-volume-bar-value"></div> </div>  <div class="jp-current-time"></div> <div class="jp-duration"></div> </div> <div id="jp_playlist_1" class="jp-playlist">  </div><a style="height: 10px; display:block;" target="_blank" href="http://129.89.24.131/cdm/compoundobject/collection/march/id/1626/rec/1?show=1625"></a>       </div>  </div></blockquote> </div>',
 			"credit":"",
 			"caption":""
 		}
